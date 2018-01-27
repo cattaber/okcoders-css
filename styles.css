@@ -8,7 +8,7 @@ body {
 
 }
 h1, h2, strong {
-	color: darkgray;
+	color: gray;
 }
 h2 {
 	margin-top: 1em;
@@ -17,4 +17,7 @@ h2 {
 }
 a {
 	color: palevioletred
+}
+header {
+	background-color: lightgray
 }
